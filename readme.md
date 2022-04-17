@@ -1,6 +1,7 @@
 I want to build a portfolio project where I
 1)	show case writing sql queries to answer business questions
 2)	create dashboard/visualization using Power BI 
+
 The first step will be to create a database. Following the tutorial below, I found a sample DvDrental database which I load it into a PostgreSQL database server. 
 
 https://www.postgresqltutorial.com/postgresql-getting-started/postgresql-sample-database/
